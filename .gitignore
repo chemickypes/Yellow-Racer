@@ -1,0 +1,16 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+.clang_complete
+.gcc-flags.json
+
+# build / temp
+*.elf
+*.bin
+*.map
+
+# OS
+.DS_Store
+Thumbs.db
